@@ -1,7 +1,9 @@
 # Rocket_Website
 Author-Shaik Irfan Ahmad
 <br>
-A sample one-page website.
+<br>
+
+A sample one-page website.No backend included
 <br>
 Clone the website using vs code or any other
 <br>
